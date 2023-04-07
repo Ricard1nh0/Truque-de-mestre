@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>Truque de Mestre</title>
+	<style>
+		body{
+			color: #FFFFFF;
+		}
+		 img {
+    		float: left;
+   			margin-right: 10px;
+  		}
+  		p{
+   			font-size: 21px;
+  		}
+
+	</style>
+</head>
+<body bgcolor="#000000">
+	<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T r u q u e&nbsp;&nbsp;&nbsp;&nbsp;d e&nbsp;&nbsp;&nbsp;&nbsp;M e s t r e&nbsp;&spades;</h1>
+
+
+<div>
+	<img src="ImagensTdM/capafilme.jpg" height="1000">
+
+	<p>
+		<b>Sinopse do filme:</b></p>
+		<p>&nbsp;&nbsp;&nbsp;Um grupo de ilusionistas encanta o público com suas mágicas e também rouba bancos em outro continente, distribuindo a quantia para os próprios espectadores. O agente do FBI Dylan Hobbs (Mark Ruffalo) está determinado a capturá-los e conta com a ajuda de Alma Vargas, uma detetive da Interpol, e também de Thaddeus Bradley, um veterano desmistificador de mágicos que insiste que os assaltos são realizados a partir de disfarces e jogos envolvendo vídeos.
+	</p>
+
+	<p><b>Os Quatro Cavaleiros:</b><br></p>
+<img src="ImagensTdM/jesse.jpg" width="100" height="100">
+	<p><b>&nbsp;J. Daniel Atlas</b> (interpretado por Jesse Eisenberg) é um ilusionista arrogante e charmoso que é especialista em truques de cartas e escapismo. Ele é um dos líderes do grupo de mágicos conhecido como "Os Quatro Cavaleiros".<br></p>
+
+<img src="ImagensTdM/isla.jpg" width="100" height="100">
+	<p><b>&nbsp;Henley Reeves</b> (interpretada por Isla Fisher) é uma ilusionista e escapista que possui um número impressionante de truques de fuga. Ela é ex-namorada de Atlas e se junta ao grupo para se vingar dele.<br></p>
+
+<img src="ImagensTdM/woody.jpg" width="100" height="100">
+	<p><b>&nbsp;Merritt McKinney</b> (interpretado por Woody Harrelson) é um hipnotizador e mentalista que usa sua habilidade de leitura fria para enganar o público. Ele é o único membro do grupo que não é um ilusionista tradicional.</p>
+
+<img src="ImagensTdM/dave.jpg" width="100" height="100">
+	<p><b>&nbsp;Jack Wilder</b> (interpretado por Dave Franco) é um ilusionista de rua e ladrão habilidoso que usa suas habilidades para ajudar o grupo a roubar bancos e executar truques impossíveis. Ele é o mais jovem e mais impulsivo do grupo.</p><br>
+
+	<p><b>Minha opinião sobre o filme: </b>O filme tem um enredo que me cativa bastante, com um plot twist no final que na minha primeira experiência com o filme foi surpreendente, suas cenas de ação e de mágica são as minhas preferidas, apesar de saber que na vida real são um tanto quanto impossíveis, os truques apresentados no filme me chamam bastante atenção, gosto muito desse filme por conter vários aspectos que me agradam em um filme.</p>
+
+</div>
+
+<footer>
+  <p text align="center">&copy; 2023 Ricardo. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
